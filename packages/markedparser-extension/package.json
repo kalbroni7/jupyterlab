@@ -35,10 +35,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/codemirror": "^4.3.0-alpha.2",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/codemirror": "^0.1.1",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
-    "@jupyterlab/mermaid": "^4.3.0-alpha.2",
+    "@jupyterlab/mermaid": "^4.1.0",
     "@jupyterlab/rendermime": "^4.3.0-alpha.2",
     "@lumino/coreutils": "^2.1.2",
     "marked": "^9.1.2",
