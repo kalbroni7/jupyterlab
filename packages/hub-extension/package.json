@@ -39,10 +39,10 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/coreutils": "^6.3.0-alpha.2",
-    "@jupyterlab/services": "^7.3.0-alpha.2",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/coreutils": "^0.1.1",
+    "@jupyterlab/services": "^0.22.0",
     "@jupyterlab/translation": "^4.3.0-alpha.2"
   },
   "devDependencies": {
