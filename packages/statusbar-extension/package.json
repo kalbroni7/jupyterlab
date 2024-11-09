@@ -36,10 +36,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
-    "@jupyterlab/statusbar": "^4.3.0-alpha.2",
+    "@jupyterlab/statusbar": "^0.1.0",
     "@jupyterlab/translation": "^4.3.0-alpha.2"
   },
   "devDependencies": {
