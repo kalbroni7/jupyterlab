@@ -56,7 +56,7 @@
     "prettier": "~2.6.0",
     "process": "^0.11.10",
     "semver": "^7.3.2",
-    "sort-package-json": "~1.53.1",
+    "sort-package-json": "~2.10.2",
     "typescript": "~5.1.6",
     "verdaccio": "^5.25.0"
   },
