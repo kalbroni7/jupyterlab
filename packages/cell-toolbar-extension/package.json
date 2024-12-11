@@ -35,8 +35,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/cell-toolbar": "^4.3.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/cell-toolbar": "^3.4.0",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2"
   },
