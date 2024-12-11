@@ -39,11 +39,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/extensionmanager": "^4.3.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/extensionmanager": "^0.17.1",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
-    "@jupyterlab/ui-components": "^4.3.0-alpha.2"
+    "@jupyterlab/ui-components": "^1.0.0"
   },
   "devDependencies": {
     "rimraf": "~5.0.5",
