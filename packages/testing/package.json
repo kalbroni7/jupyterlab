@@ -33,9 +33,9 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@babel/core": "^7.10.2",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.10.2",
-    "@jupyterlab/coreutils": "^6.3.0-alpha.2",
+    "@jupyterlab/coreutils": "^0.1.1",
     "@lumino/coreutils": "^2.1.2",
     "@lumino/signaling": "^2.1.2",
     "deepmerge": "^4.2.2",
