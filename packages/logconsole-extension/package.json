@@ -35,9 +35,9 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
-    "@jupyterlab/logconsole": "^4.3.0-alpha.2",
+    "@jupyterlab/logconsole": "^4.0.0",
     "@jupyterlab/rendermime": "^4.3.0-alpha.2",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
     "@jupyterlab/statusbar": "^4.3.0-alpha.2",
