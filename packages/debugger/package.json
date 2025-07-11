@@ -57,7 +57,7 @@
     "@jupyterlab/cells": "^0.1.2",
     "@jupyterlab/codeeditor": "^4.3.0-alpha.2",
     "@jupyterlab/codemirror": "^4.3.0-alpha.2",
-    "@jupyterlab/console": "^4.3.0-alpha.2",
+    "@jupyterlab/console": "^4.0.0",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
     "@jupyterlab/docregistry": "^4.3.0-alpha.2",
     "@jupyterlab/fileeditor": "^0.5.0",
