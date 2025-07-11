@@ -38,10 +38,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
     "@jupyterlab/docregistry": "^4.3.0-alpha.2",
-    "@jupyterlab/mainmenu": "^4.3.0-alpha.2",
+    "@jupyterlab/mainmenu": "^4.0.0",
     "@jupyterlab/rendermime-interfaces": "^3.11.0-alpha.2",
     "@jupyterlab/services": "^7.3.0-alpha.2",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
