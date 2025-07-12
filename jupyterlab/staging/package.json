@@ -145,7 +145,7 @@
     "yjs": "^13.5.40"
   },
   "dependencies": {
-    "@jupyterlab/application": "~4.3.0-alpha.2",
+    "@jupyterlab/application": "~4.3.0",
     "@jupyterlab/application-extension": "~4.3.0-alpha.2",
     "@jupyterlab/apputils-extension": "~4.3.0-alpha.2",
     "@jupyterlab/cell-toolbar-extension": "~4.3.0-alpha.2",
@@ -167,7 +167,7 @@
     "@jupyterlab/imageviewer-extension": "~4.3.0-alpha.2",
     "@jupyterlab/inspector-extension": "~4.3.0-alpha.2",
     "@jupyterlab/javascript-extension": "~4.3.0-alpha.2",
-    "@jupyterlab/json-extension": "~4.3.0-alpha.2",
+    "@jupyterlab/json-extension": "~4.3.0",
     "@jupyterlab/launcher-extension": "~4.3.0-alpha.2",
     "@jupyterlab/logconsole-extension": "~4.3.0-alpha.2",
     "@jupyterlab/lsp-extension": "~4.3.0-alpha.2",
@@ -193,8 +193,8 @@
     "@jupyterlab/tooltip-extension": "~4.3.0-alpha.2",
     "@jupyterlab/translation-extension": "~4.3.0-alpha.2",
     "@jupyterlab/ui-components-extension": "~4.3.0-alpha.2",
-    "@jupyterlab/vega5-extension": "~4.3.0-alpha.2",
-    "@jupyterlab/workspaces-extension": "~4.3.0-alpha.2"
+    "@jupyterlab/vega5-extension": "~4.3.0",
+    "@jupyterlab/workspaces-extension": "~4.3.0"
   },
   "devDependencies": {
     "@jupyterlab/builder": "^4.3.0-alpha.2",
