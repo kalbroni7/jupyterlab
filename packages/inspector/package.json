@@ -41,10 +41,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/codeeditor": "^4.3.0-alpha.2",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
-    "@jupyterlab/rendermime": "^4.3.0-alpha.2",
+    "@jupyterlab/rendermime": "^4.0.0",
     "@jupyterlab/services": "^7.3.0-alpha.2",
     "@jupyterlab/statedb": "^4.3.0-alpha.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
