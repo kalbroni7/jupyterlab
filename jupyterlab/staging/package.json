@@ -158,7 +158,7 @@
     "@jupyterlab/debugger-extension": "~4.3.0-alpha.2",
     "@jupyterlab/docmanager-extension": "~4.3.0-alpha.2",
     "@jupyterlab/documentsearch-extension": "~4.3.0-alpha.2",
-    "@jupyterlab/extensionmanager-extension": "~4.3.0-alpha.2",
+    "@jupyterlab/extensionmanager-extension": "~4.3.6",
     "@jupyterlab/filebrowser-extension": "~4.3.0-alpha.2",
     "@jupyterlab/fileeditor-extension": "~4.3.0-alpha.2",
     "@jupyterlab/help-extension": "~4.3.0-alpha.2",
