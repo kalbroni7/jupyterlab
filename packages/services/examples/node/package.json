@@ -7,7 +7,7 @@
     "update": "rimraf node_modules/@jupyterlab/services && npm install"
   },
   "dependencies": {
-    "@jupyterlab/services": "^7.3.0-alpha.2",
+    "@jupyterlab/services": "^0.22.0",
     "ws": "^8.11.0"
   },
   "devDependencies": {
