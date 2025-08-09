@@ -45,10 +45,10 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/nbformat": "^4.3.0-alpha.2",
-    "@jupyterlab/notebook": "^4.3.0-alpha.2",
-    "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/nbformat": "^2.0.0",
+    "@jupyterlab/notebook": "^0.1.2",
+    "@jupyterlab/settingregistry": "^2.0.0",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
     "@jupyterlab/ui-components": "^4.3.0-alpha.2",
     "@lumino/coreutils": "^2.1.2",
