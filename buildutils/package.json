@@ -48,7 +48,7 @@
     "dependency-graph": "^0.11.0",
     "fs-extra": "^10.1.0",
     "glob": "~7.1.6",
-    "inquirer": "^9.1.4",
+    "inquirer": "^10.0.0",
     "micromatch": "^4.0.2",
     "minimatch": "~3.0.4",
     "os": "~0.1.1",
