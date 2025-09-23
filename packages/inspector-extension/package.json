@@ -38,11 +38,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/console": "^4.3.0-alpha.2",
     "@jupyterlab/inspector": "^4.3.0-alpha.2",
     "@jupyterlab/launcher": "^4.3.0-alpha.2",
-    "@jupyterlab/notebook": "^4.3.0-alpha.2",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
     "@jupyterlab/ui-components": "^4.3.0-alpha.2",
     "@lumino/widgets": "^2.3.2"
