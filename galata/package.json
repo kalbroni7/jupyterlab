@@ -60,7 +60,7 @@
     "json5": "^2.2.3",
     "path": "~0.12.7",
     "systeminformation": "^5.8.6",
-    "vega": "^5.20.0",
+    "vega": "^6.2.0",
     "vega-lite": "^5.6.1",
     "vega-statistics": "^1.7.9"
   },
