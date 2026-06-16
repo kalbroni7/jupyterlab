@@ -35,8 +35,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/documentsearch": "^4.3.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/documentsearch": "^1.0.0",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
     "@lumino/commands": "^2.3.0",
