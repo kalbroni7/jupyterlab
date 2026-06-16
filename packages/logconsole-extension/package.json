@@ -34,13 +34,13 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
-    "@jupyterlab/coreutils": "^6.3.0-alpha.2",
-    "@jupyterlab/logconsole": "^4.3.0-alpha.2",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/coreutils": "^0.1.1",
+    "@jupyterlab/logconsole": "^1.0.0",
     "@jupyterlab/rendermime": "^4.3.0-alpha.2",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
-    "@jupyterlab/statusbar": "^4.3.0-alpha.2",
+    "@jupyterlab/statusbar": "^0.1.0",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
     "@jupyterlab/ui-components": "^4.3.0-alpha.2",
     "@lumino/coreutils": "^2.1.2",
