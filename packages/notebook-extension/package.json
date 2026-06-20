@@ -38,7 +38,7 @@
   "dependencies": {
     "@jupyter/ydoc": "^2.0.1",
     "@jupyterlab/application": "^4.3.0-alpha.2",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/cells": "^4.3.0-alpha.2",
     "@jupyterlab/codeeditor": "^4.3.0-alpha.2",
     "@jupyterlab/codemirror": "^4.3.0-alpha.2",
@@ -53,7 +53,7 @@
     "@jupyterlab/logconsole": "^4.3.0-alpha.2",
     "@jupyterlab/lsp": "^4.3.0-alpha.2",
     "@jupyterlab/mainmenu": "^4.3.0-alpha.2",
-    "@jupyterlab/metadataform": "^4.3.0-alpha.2",
+    "@jupyterlab/metadataform": "^4.0.0",
     "@jupyterlab/nbformat": "^4.3.0-alpha.2",
     "@jupyterlab/notebook": "^4.3.0-alpha.2",
     "@jupyterlab/observables": "^5.3.0-alpha.2",
