@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@jupyter/ydoc": "^2.0.1",
-    "@jupyterlab/apputils": "^4.4.0-alpha.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/codeeditor": "^4.3.0-alpha.2",
     "@jupyterlab/codemirror": "^4.3.0-alpha.2",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
@@ -48,7 +48,7 @@
     "@jupyterlab/documentsearch": "^4.3.0-alpha.2",
     "@jupyterlab/lsp": "^4.3.0-alpha.2",
     "@jupyterlab/statusbar": "^4.3.0-alpha.2",
-    "@jupyterlab/toc": "^6.3.0-alpha.2",
+    "@jupyterlab/toc": "^6.0.0",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
     "@jupyterlab/ui-components": "^4.3.0-alpha.2",
     "@lumino/commands": "^2.3.0",
