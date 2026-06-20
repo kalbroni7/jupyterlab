@@ -59,7 +59,7 @@
     "source-map-loader": "~1.0.2",
     "style-loader": "~3.3.1",
     "supports-color": "^7.2.0",
-    "terser-webpack-plugin": "^5.3.7",
+    "terser-webpack-plugin": "^5.3.11",
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1",
     "webpack-merge": "^5.8.0",
