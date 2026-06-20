@@ -11,7 +11,7 @@
     "@jupyter/ydoc": "^2.0.1",
     "@jupyterlab/application": "^4.3.0-alpha.2",
     "@jupyterlab/codemirror": "^4.3.0-alpha.2",
-    "@jupyterlab/console": "^4.3.0-alpha.2",
+    "@jupyterlab/console": "^4.0.0",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
     "@jupyterlab/rendermime": "^4.3.0-alpha.2",
     "@jupyterlab/services": "^7.3.0-alpha.2",
