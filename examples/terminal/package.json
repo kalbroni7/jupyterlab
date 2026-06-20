@@ -11,7 +11,7 @@
     "@jupyterlab/application": "^4.3.0-alpha.2",
     "@jupyterlab/coreutils": "^6.3.0-alpha.2",
     "@jupyterlab/services": "^7.3.0-alpha.2",
-    "@jupyterlab/terminal": "^4.3.0-alpha.2",
+    "@jupyterlab/terminal": "^4.0.0",
     "@jupyterlab/theme-light-extension": "^4.3.0-alpha.2",
     "@lumino/widgets": "^2.3.2"
   },
