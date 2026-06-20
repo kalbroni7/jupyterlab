@@ -44,7 +44,7 @@
     "@jupyterlab/notebook": "^4.3.0-alpha.2",
     "@jupyterlab/settingregistry": "^4.3.0-alpha.2",
     "@jupyterlab/translation": "^4.3.0-alpha.2",
-    "@jupyterlab/ui-components": "^4.3.0-alpha.2",
+    "@jupyterlab/ui-components": "^1.0.0",
     "@lumino/coreutils": "^2.1.2"
   },
   "devDependencies": {
